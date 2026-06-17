@@ -214,7 +214,9 @@ If you use this code in your research, please cite:
 @article{maize_lai_tabpfn_2026,
   title={Interpretable Machine Learning and Causal Inference for Maize LAI Estimation from UAV Multimodal Imagery},
   journal={International Journal of Remote Sensing},
+  author={Han, L., Yang, G., Wu, J., Cui, P., Niu, L., Ji, G., Li, X. & Zhang, N.},
   year={2026},
+  doi={10.1080/01431161.2026.2691983},
   publisher={Taylor & Francis}
 }
 ```
